@@ -7,9 +7,9 @@
 </head>
 <body>
 <jsp:include page="common/header.jsp"></jsp:include>
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <h1>Employee Management System</h1>
-    <img src="https://www.ntaskmanager.com/wp-content/uploads/2021/03/Best-employee-management-system.jpg" alt="image" />
+    <img src="https://github.com/Prasadkpd/Employe_Management_JSP_Servlet/blob/master/src/main/webapp/images/images.png?raw=true" style="width: 40vw;" alt="image" />
 </div>
 <jsp:include page="common/footer.jsp"></jsp:include>
 </body>
