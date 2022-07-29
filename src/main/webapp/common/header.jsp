@@ -8,7 +8,7 @@
 <header>
     <nav class="navbar navbar-expand-md navbar-dark" style="background:#1f2c46;color:white">
         <div>
-            <a class="navbar-brand">Employee Management</a>
+            <a href="/Employe_Management_war_exploded/" class="navbar-brand">Employee Management</a>
         </div>
 
         <ul class="navbar-nav navbar-collapse justify-content-end" style="display: flex; flex-direction: row;align-items: center;">
